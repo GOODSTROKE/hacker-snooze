@@ -1,0 +1,22 @@
+body {
+    
+  display: flex;
+  font-family: 'Courier New', Courier, monospace, bold;
+  justify-content:center;
+  align-items:center;
+
+}
+
+<!-- // Remember the white background -->
+
+
+
+  .parent {
+  width: 768px;
+  padding-left: 220px;
+  padding-right: 220px;
+}
+
+  .child {
+  border: rgb(255, 255, 255) 2px solid;
+}
